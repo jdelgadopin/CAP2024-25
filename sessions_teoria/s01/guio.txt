@@ -1,0 +1,65 @@
+- Introducció
+  -- Setmana 01: Expressions & condicionals & let (variables locals) & definició de funcions & Llistes
+  -- Setmana 02: Recursivitat (recur) & seqüències (vectors, strings)
+
+Setmana 01:
+
+- Introducció
+  Presentació Gerard i Jordi
+  Repàs guia docent
+  Explicar de què va el curs, repetir el missatge del Racó
+  Labs/Exàmens amb Jutge
+  Jutge: Al tanto que els del GIA no l'han fet servir mai (?)
+  Avaluació assignatura: Queda per especificar avaluació labs.
+  Bibliografia: Comentar l'edició electr. de la biblio-UPC.
+  Clojure: Explicar el llenguatge per sobre (Familia Lisp, JVM, etc.)
+           Coses que potser fem servir però no veurem en profunditat:
+           - Namespaces
+           - Java interop
+           Coses que no veurem:
+           - dynamic/static vars
+           - Specs
+           - Res de concurrència/Multi-Threading: refs & STM, Agents
+           - Protocols i Datatypes: Interfaces, protocols, datatypes, records.
+           - Multimètodes
+           - Metadata
+  Comentar que el darrer tema de macros no és ben bé programació
+  funcional (a Haskell no n'hi ha), però que són molt interessants.
+
+- Expressions, avaluació, valor
+  Avaluació llista: (f p1 p2 ... pn), notació prefixa
+  f funció, special form (enumerar-ne algunes? https://clojure.org/reference/special_forms ) , macro
+  Tenim nombres (tipus fracció també), booleans, caràcters (\a), -- funció (type ...)
+  keywords (per començar),
+  Lligam de noms amb símbols (def)
+  opns:
+  +,-,*,/,quot,mod/rem,inc,dec,==,<,>,<=,>=,zero?,pos?,neg?,number?,min,max
+  not,and,or
+  char (enter->unicode)
+  keyword, keyword?
+  Tipus string: str, subs, string?, print, println
+  
+- condicionals
+  només false i nil són falsy
+  if, if-not, when, cond
+
+- definició de funcions
+  funcions anònimes (fn ...)
+  macro defn, paràmetres
+  notació #(...%...)
+  efectes colaterals: do
+  recursivitat naïve: les funcions es poden cridar elles mateixes.
+
+- lligams locals (let)
+  let, intro a destruct.(?)
+  letfn
+  macros if-let, when-let
+
+- llistes, homoiconicitat, seqüències (I)
+  Els programes són llistes. Avaluació llistes -> quote
+  seq funs: first, rest, next, cons: retornen seqs -- (next s) = (seq (rest s))
+  list funs: list, list*, peek, pop, conj: retornen llistes
+  altres: list?, empty?, count
+  
+- bucles: loop/recur (cal arribar-hi, per poder fer el lab)
+  
