@@ -38,6 +38,12 @@ Setmana 01:
   char (enter->unicode)
   keyword, keyword?
   Tipus string: str, subs, string?, print, println
+
+- llistes, homoiconicitat, seqüències (I)
+  Els programes són llistes. Avaluació llistes -> quote
+  seq funs: first, rest, next, cons: retornen seqs -- (next s) = (seq (rest s))
+  list funs: list, list*, peek, pop, conj: retornen llistes
+  altres: list?, empty?, count
   
 - condicionals
   només false i nil són falsy
@@ -54,12 +60,6 @@ Setmana 01:
   let, intro a destruct.(?)
   letfn
   macros if-let, when-let
-
-- llistes, homoiconicitat, seqüències (I)
-  Els programes són llistes. Avaluació llistes -> quote
-  seq funs: first, rest, next, cons: retornen seqs -- (next s) = (seq (rest s))
-  list funs: list, list*, peek, pop, conj: retornen llistes
-  altres: list?, empty?, count
   
 - bucles: loop/recur (cal arribar-hi, per poder fer el lab)
   
