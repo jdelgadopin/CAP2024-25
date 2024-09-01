@@ -26,6 +26,8 @@ Setmana 01:
   Comentar que el darrer tema de macros no és ben bé programació
   funcional (a Haskell no n'hi ha), però que són molt interessants.
 
+------------ Sessió 1 -----------------------------------------
+
 - Expressions, avaluació, valor
   Avaluació llista: (f p1 p2 ... pn), notació prefixa
   f funció, special form (enumerar-ne algunes? https://clojure.org/reference/special_forms ) , macro
@@ -59,7 +61,8 @@ Setmana 01:
 - lligams locals (let)
   let, intro a destruct.(?)
   letfn
-  macros if-let, when-let
   
-- bucles: loop/recur (cal arribar-hi, per poder fer el lab)
+- bucles: loop/recur
   
+------------ Sessió 2 -----------------------------------------
+
