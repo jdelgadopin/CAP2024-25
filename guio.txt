@@ -2,7 +2,7 @@
   -- Setmana 01: Expressions & condicionals & let (variables locals) & definició de funcions & Llistes
   -- Setmana 02: Recursivitat (recur) & seqüències (vectors, strings)
 
-Setmana 01:
+------------ Setmana 01 -----------------------------------------
 
 - Introducció
   Presentació Gerard i Jordi
@@ -25,8 +25,6 @@ Setmana 01:
            - Metadata
   Comentar que el darrer tema de macros no és ben bé programació
   funcional (a Haskell no n'hi ha), però que són molt interessants.
-
------------- Sessió 1 -----------------------------------------
 
 - Expressions, avaluació, valor
   Avaluació llista: (f p1 p2 ... pn), notació prefixa
@@ -64,5 +62,9 @@ Setmana 01:
   
 - bucles: loop/recur
   
------------- Sessió 2 -----------------------------------------
+------------ Setmana 02 -----------------------------------------
+
+- Introducció
+  ** Setmana 01: Expressions & condicionals & let (variables locals) & definició de funcions & Llistes
+  -- Setmana 02: Recursivitat (recur) & seqüències (vectors, strings)
 
