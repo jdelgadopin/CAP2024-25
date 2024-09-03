@@ -18,7 +18,7 @@ class: center, up
 
 * Setmanes 1 i 2: [**Clojure: Introducció**](s01_02.html)
 
-* Setmanes 3 i 4: **Programació funcional: Funcions first-class**
+* Setmanes 3 i 4: **Programació funcional: Funcions _first-class_**
 
 * Setmanes 5 i 6: **Programació funcional: Closures - Model d'entorns**
 
