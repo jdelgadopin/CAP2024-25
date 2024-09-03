@@ -68,3 +68,4 @@
   ** Setmana 01: Expressions & condicionals & let (variables locals) & definició de funcions & Llistes
   -- Setmana 02: Recursivitat (recur) & seqüències (vectors, strings)
 
+
