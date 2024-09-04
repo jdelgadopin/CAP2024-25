@@ -20,7 +20,7 @@ Departament de Ciències de la Computació (UPC)
 
 * Setmanes 1 i 2: [**Clojure: Introducció**](s01_02.html)
 
-* Setmanes 3 i 4: **Programació funcional: Funcions _first-class_**
+* Setmanes 3 i 4: [**Programació funcional: Funcions _first-class_**](s03_04.html)
 
 * Setmanes 5 i 6: **Programació funcional: Closures - Model d'entorns**
 
