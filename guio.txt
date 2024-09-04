@@ -49,7 +49,6 @@
   només false i nil són falsy
   if, if-not, when, cond
 
-- definició de funcions
   funcions anònimes (fn ...)
   macro defn, paràmetres
   notació #(...%...)
