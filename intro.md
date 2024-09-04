@@ -62,7 +62,7 @@ Un examen parcial i un examen final. **Nota de teoria**: .blue[MAX(final, (parci
 
 ## Laboratori:
 
-### Jutge -  [https://jutge.org](https://jutge.org)
+### Jutge -  [https://jutge.org](https://jutge.org) (_hopefully_)
 
 Cal que us registreu amb el vostre correu **@estudiantat.upc.edu**
 
@@ -70,7 +70,24 @@ Apunteu-vos al curs **Problemes en Clojure**
 
 ### Avaluació laboratori: 
 
-.cyan[==> **_PER DEFINIR_**]
+Proposarem un exercici de dificultat mitjana per cada tema (excepte el primer), i caldrà que 
+lliureu la solució de tots ells en grups de dos persones al Racó. 
+Mirarem de fer públics els enunciats en finalitzar cada tema.
+
+La mitjana de les notes dels projectes serà la nota del laboratori (serà una nota individual, malgrat les solucions dels projectes es facin en grup).
+
+---
+
+# Conceptes Avançats de Programació
+
+## Avaluació total: 
+
+.large[Sigui NT la nota de teoria, i NL la nota de laboratori]
+
+## Nota CAP: .blue[(NT + NL) / 2 si NT $\geq$ 3.5]
+## Nota CAP: .blue[NT si NT $\lt$ 3.5]
+
+
 
 ---
 
