@@ -2,13 +2,15 @@ class: center, up
 
 # Conceptes Avançats de Programació
 
-![:scale 50%](figures/lambda.png)
+![:scale 40%](figures/lambda.png)
 
 **Jordi Delgado**, **Gerard Escudero**,
 
-**Curs 2024-25**
+Departament de Ciències de la Computació (UPC)
 
-![:scale 40%](figures/fib50anysUPC.png)
+.large[**Curs 2024-25**]
+
+![:scale 35%](figures/fib50anysUPC.png)
 
 ---
 
@@ -128,3 +130,4 @@ encara que en realitat el que fa és:
 
 .center[![:scale 90%](figures/Screenshot_2024-08-29_12-34-42.png)]
 
+.tiny[.red[Source]: _The Joy of Clojure_, p. 15]
