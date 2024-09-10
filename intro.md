@@ -2,7 +2,7 @@ class: center, up
 
 # Conceptes Avançats de Programació
 
-![:scale 40%](figures/lambda.png)
+![:scale 30%](figures/lambda.png)
 
 **Jordi Delgado**, **Gerard Escudero**,
 
@@ -16,9 +16,9 @@ Departament de Ciències de la Computació (UPC)
 
 # Conceptes Avançats de Programació
 
-## Llegiu la [guia docent](https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/CAP)
+**Llegiu la [guia docent](https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/CAP)**
 
-## Guió: <ins>Programació funcional</ins> (en Clojure)
+### Guió: <ins>Programació funcional</ins> (en Clojure)
 
 * Setmanes 1, 2 i 3: [**Clojure: Introducció**](s01_02.html)
 
@@ -66,9 +66,9 @@ Examens parcial i final. **Nota de teoria**: .blue[MAX(final, (parcial + final)/
 
 ### Jutge -  [https://jutge.org](https://jutge.org)
 
-~~Cal que us registreu amb el vostre correu **@estudiantat.upc.edu**~~
+- Cal que us registreu amb el vostre correu **@estudiantat.upc.edu**
 
-~~Apunteu-vos al curs **Problemes en Clojure**~~
+- Apunteu-vos al curs **Problemes en Clojure**
 
 ### Avaluació laboratori: 
 
