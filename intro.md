@@ -16,25 +16,27 @@ Departament de Ciències de la Computació (UPC)
 
 # Conceptes Avançats de Programació
 
-## Guió (provisional): <ins>Programació funcional</ins> (en Clojure)
-
-* Setmanes 1 i 2: [**Clojure: Introducció**](s01_02.html)
-
-* Setmanes 3 i 4: [**Programació funcional: Funcions _first-class_**](s03_04.html)
-
-* Setmanes 5 i 6: **Programació funcional: Closures - Model d'entorns**
-
-* Setmanes 7 i 9: **Programació funcional: Programació funcions ordre superior**
-
-* Setmana 8: _Parcial_
-
-* Setmana 10: **Programació funcional: Immutabilitat EDs**
-
-* Setmana 11: **Programació funcional: Avaluació mandrosa**
-
-* Setmanes 12 i 13: **Macros**
-
 ## Llegiu la [guia docent](https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/CAP)
+
+## Guió: <ins>Programació funcional</ins> (en Clojure)
+
+* Setmanes 1, 2 i 3: [**Clojure: Introducció**](s01_02.html)
+
+* Setmanes 4 i 5: [**Programació funcional: Funcions _first-class_**](s03_04.html)
+
+* Setmanes 6 i 7: **Programació funcional: Closures - Model d'entorns**
+
+* Setmanes 8 i 10: **Programació funcional: Tècniques de programació amb funcions ordre superior**
+
+* Setmana 9: _Parcial_: Entra tot fins a la setmana 7 (inclosa)
+
+* Setmana 11: **Programació funcional: Immutabilitat EDs**
+
+* Setmana 12: **Programació funcional: Avaluació mandrosa**
+
+* Setmanes 13 i 14: **Macros**
+
+* Setmana 15: _Coixí per a imprevistos_
 
 ---
 
@@ -54,7 +56,7 @@ Aquests llibres _haurien_ d'estar a la biblioteca 😭 😭 😭
 
 ### Avaluació teoria: 
 
-Un examen parcial i un examen final. **Nota de teoria**: .blue[MAX(final, (parcial + final)/2)]
+Examens parcial i final. **Nota de teoria**: .blue[MAX(final, (parcial + final)/2)]
 
 ---
 
@@ -62,11 +64,11 @@ Un examen parcial i un examen final. **Nota de teoria**: .blue[MAX(final, (parci
 
 ## Laboratori:
 
-### Jutge -  [https://jutge.org](https://jutge.org) (_hopefully_)
+### Jutge -  [https://jutge.org](https://jutge.org)
 
-Cal que us registreu amb el vostre correu **@estudiantat.upc.edu**
+~~Cal que us registreu amb el vostre correu **@estudiantat.upc.edu**~~
 
-Apunteu-vos al curs **Problemes en Clojure**
+~~Apunteu-vos al curs **Problemes en Clojure**~~
 
 ### Avaluació laboratori: 
 
@@ -84,10 +86,8 @@ La mitjana de les notes dels projectes serà la nota del laboratori (serà una n
 
 .large[Sigui NT la nota de teoria, i NL la nota de laboratori]
 
-## Nota CAP: .blue[(NT + NL) / 2 si NT $\geq$ 3.5]
-## Nota CAP: .blue[NT si NT $\lt$ 3.5]
-
-
+## Nota CAP: &emsp; .red[(NT + NL) / 2 &emsp;&emsp; si &emsp; NT $\geq$ 3.5]
+## Nota CAP: &emsp; .red[NT &emsp;&emsp;&emsp;&emsp;&emsp; si &emsp; NT $\lt$ 3.5]
 
 ---
 
