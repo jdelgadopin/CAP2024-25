@@ -147,4 +147,4 @@ encara que en realitat el que fa és:
 
 .center[![:scale 90%](figures/Screenshot_2024-08-29_12-34-42.png)]
 
-.tiny[.red[Source]: _The Joy of Clojure_, p. 15]
+.tiny[.red[Font]: _The Joy of Clojure_, p. 15]
