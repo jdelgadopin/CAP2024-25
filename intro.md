@@ -22,17 +22,17 @@ Departament de Ciències de la Computació (UPC)
 
 * Setmanes 1, 2 i 3: [**Clojure: Introducció**](s01_02.html)
 
-* Setmanes 4 i 5: [**Programació funcional: Funcions _first-class_**](s03_04.html)
+* Setmanes 4 i 5: [**Funcions _first-class_**](s03_04.html)
 
-* Setmanes 6 i 7: **Programació funcional: Closures - Model d'entorns**
+* Setmanes 6 i 7: **Closures - Model d'entorns**
 
-* Setmanes 8 i 10: **Programació funcional: Tècniques de programació amb funcions ordre superior**
+* Setmanes 8 i 10: **Tècniques de programació amb funcions d'ordre superior**
 
 * Setmana 9: _Parcial_: Entra tot fins a la setmana 7 (inclosa)
 
-* Setmana 11: **Programació funcional: Immutabilitat EDs**
+* Setmana 11: **Immutabilitat d'Estructures de Dades**
 
-* Setmana 12: **Programació funcional: Avaluació mandrosa**
+* Setmana 12: **Avaluació mandrosa**
 
 * Setmanes 13 i 14: **Macros**
 
