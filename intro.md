@@ -24,7 +24,7 @@ Departament de Ciències de la Computació (UPC)
 
 * Setmanes 4 i 5: [**Funcions _first-class_**](s03_04.html)
 
-* Setmanes 6 i 7: **Closures - Model d'entorns**
+* Setmanes 6 i 7: [**_Closures_ - Model d'entorns**](s05_06.html)
 
 * Setmanes 8 i 10: **Tècniques de programació amb funcions d'ordre superior**
 
