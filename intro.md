@@ -26,7 +26,7 @@ Departament de Ciències de la Computació (UPC)
 
 * Setmanes 6 i 7: [**_Closures_ - Model d'entorns**](s05_06.html)
 
-* Setmanes 8 i 10: **Tècniques de programació amb funcions d'ordre superior**
+* Setmanes 8 i 10: [**Tècniques de programació amb funcions d'ordre superior**](s07_08.html)
 
 * Setmana 9: _Parcial_: Entra tot fins a la setmana 7 (inclosa)
 
