@@ -20,21 +20,21 @@ Departament de Ciències de la Computació (UPC)
 
 ### Guió: <ins>Programació funcional</ins> (en Clojure)
 
-* Setmanes 1, 2 i 3: [**Clojure: Introducció**](s01_02.html)
+* Tema 1: [**Clojure: Introducció**](s01_02.html)
 
-* Setmanes 4 i 5: [**Funcions _first-class_**](s03_04.html)
+* Tema 2: [**Funcions _first-class_**](s03_04.html)
 
-* Setmanes 6 i 7: [**_Closures_ - Model d'entorns**](s05_06.html)
+* Tema 3: [**_Closures_ - Model d'entorns**](s05_06.html)
 
-* Setmanes 8 i 10: [**Tècniques de programació amb funcions d'ordre superior**](s07_08.html)
+* Tema 4: [**Tècniques de programació amb funcions d'ordre superior**](s07_08.html)
 
-* Setmana 9: _Parcial_: Entra tot fins a la setmana 7 (inclosa)
+* Setmana 9: _Parcial_: Entren temes 1, 2 i 3
 
-* Setmana 11: **Immutabilitat d'Estructures de Dades**
+* Tema 5: **Immutabilitat d'Estructures de Dades**
 
-* Setmana 12: **Avaluació mandrosa**
+* Tema 6: **Avaluació mandrosa**
 
-* Setmanes 13 i 14: **Macros**
+* Tema 7: **Macros**
 
 * Setmana 15: _Coixí per a imprevistos_
 
