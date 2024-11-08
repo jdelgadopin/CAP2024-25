@@ -30,7 +30,7 @@ Departament de Ciències de la Computació (UPC)
 
 * Setmana 9: _Parcial_: Entren temes 1, 2 i 3
 
-* Tema 5: **Immutabilitat d'Estructures de Dades**
+* Tema 5: [**Immutabilitat d'Estructures de Dades**](s09.html)
 
 * Tema 6: **Avaluació mandrosa**
 
