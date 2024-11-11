@@ -28,7 +28,7 @@ Departament de Ciències de la Computació (UPC)
 
 * Tema 4: [**Tècniques de programació amb funcions d'ordre superior**](s07_08.html)
 
-* Setmana 9: _Parcial_: Entren temes 1, 2 i 3
+* Setmana 9: [**Parcial**](additions/ParcialCAP24-25_Sols.pdf): Entren temes 1, 2 i 3
 
 * Tema 5: [**Immutabilitat d'Estructures de Dades**](s09.html)
 
