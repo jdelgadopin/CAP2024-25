@@ -32,7 +32,7 @@ Departament de Ciències de la Computació (UPC)
 
 * Tema 5: [**Immutabilitat d'Estructures de Dades**](s09.html)
 
-* Tema 6: **Avaluació mandrosa**
+* Tema 6: [**Avaluació Mandrosa**](s10.html)
 
 * Tema 7: **Macros**
 
