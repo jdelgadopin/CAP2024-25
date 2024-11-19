@@ -148,3 +148,31 @@ encara que en realitat el que fa és:
 .center[![:scale 90%](figures/Screenshot_2024-08-29_12-34-42.png)]
 
 .tiny[.red[Font]: _The Joy of Clojure_, p. 15]
+
+---
+
+# Conceptes Avançats de Programació
+
+Consells generals per a la programació funcional en Clojure:
+
+1. _Avoid direct recursion. The JVM can’t optimize recursive calls, and Clojure
+programs that recurse will blow their stack._
+
+2. _Use recur when you’re producing scalar values or small, fixed sequences. Clojure
+will optimize calls that use an explicit recur._
+
+3. _When producing large or variable-sized sequences, always be lazy. (Do not
+recur.) Then, your callers can consume just the part of the sequence they actually
+need._
+
+4. _Be careful not to realize more of a lazy sequence than you need._
+
+5. _Know the sequence library. You can often write code without using recur or the
+lazy APIs at all._
+
+6. _Subdivide. Divide even simple-seeming problems into smaller pieces, and you’ll
+often find solutions in the sequence library that lead to more general, reusable
+code._
+
+.tiny[.red[Font]: _Programming Clojure, 3rd ed._, Alex Miller with Stuart Halloway and Aaron Bedra,
+Pragmatic 2018, p. 120]
