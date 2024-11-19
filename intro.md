@@ -70,6 +70,8 @@ Examens parcial i final. **Nota de teoria**: .blue[MAX(final, (parcial + final)/
 
 - Apunteu-vos al curs **Problemes en Clojure**
 
+### Sessions Laboratori - [gebakx.github.io/cap](https://gebakx.github.io/cap)
+
 ### Avaluació laboratori: 
 
 Proposarem un exercici de dificultat mitjana per cada tema (excepte el primer), i caldrà que 
