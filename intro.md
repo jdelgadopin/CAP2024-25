@@ -34,7 +34,7 @@ Departament de Ciències de la Computació (UPC)
 
 * Tema 6: [**Seqüències _Lazy_**](s10.html)
 
-* Tema 7: **Macros**
+* Tema 7: [**Macros**](s11.html)
 
 * Setmana 15: _Coixí per a imprevistos_
 
