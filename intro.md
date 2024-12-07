@@ -28,15 +28,13 @@ Departament de Ciències de la Computació (UPC)
 
 * Tema 4: [**Tècniques de programació amb funcions d'ordre superior**](s07_08.html)
 
-* Setmana 9: [**Parcial**](additions/ParcialCAP24-25_Sols.pdf): Entren temes 1, 2 i 3
-
 * Tema 5: [**Immutabilitat d'Estructures de Dades**](s09.html)
 
 * Tema 6: [**Seqüències _Lazy_**](s10.html)
 
 * Tema 7: [**Macros**](s11.html)
 
-* Setmana 15: _Coixí per a imprevistos_
+<br>Finalment: [**Consells generals per a la programació funcional en Clojure**](https://jdelgadopin.github.io/CAP2024-25/#9)
 
 ---
 
@@ -177,4 +175,4 @@ often find solutions in the sequence library that lead to more general, reusable
 code._
 
 .tiny[.red[Font]: _Programming Clojure, 3rd ed._, Alex Miller with Stuart Halloway and Aaron Bedra,
-Pragmatic 2018, p. 120]
+Pragmatic 2018, p. 85]
